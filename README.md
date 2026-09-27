@@ -3,7 +3,7 @@
 > **FIRST® LEGO® League Challenge 2026–2027 Season**  
 > **Theme:** BIOGLOW / CANOPY  
 > **Affiliation:** JoyRobots Engineering Lab, Richmond Hill, Ontario, Canada  
-> **Core Motto:** *"Beyond ENIAC, We build with MESIAC."*
+> **Core Motto:** *"Beyond ENIAC, We build with SEMIAC."*
 
 ---
 
