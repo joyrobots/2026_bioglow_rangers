@@ -14,24 +14,20 @@
 
 ```
 
----
-
-## Saturday Timeline to the December 13 Deadline
-
 | Week | Saturday | Innovation Project Milestone | Main Work | Robot Game & Presentation Practice |
 | --- | --- | --- | --- | --- |
-| **1** | Sep 12 | **1 — Identify** | Macro urban canopy briefing; introduced tree cooling/flood defenses; assigned Week 1 Secret Tree Detective homework sheet. | Set up field mat and practiced basic single-degree motor rotations. |
-| **2** | Sep 19 | **1 — Identify** | Reviewed homework on local invaders; unpacked CFIA "2-minute check" blindspots; signed team mission ownership charters. | Completed basic straight-line navigation and first successful mission touch. |
-| **3** | Sep 26 | **1 — Identify** | Synthesize student research on Emerald Ash Borer (EAB); benchmark current inspection flaws; finalize interview questions for the upcoming LEAF Tree Tour. | Robot chassis baseline testing; draft step-by-step navigation pseudocode; 1–2 min speaking drill. |
-| **4** | Oct 3 *(Tour Oct 4)* | **2 — Design** | **Field Trip: Attend LEAF Tree Tour at Meander Park (Oct 4)**; observe damaged ash trees, interview experts, lock in the acoustic detection concept. | Finalize robot mission routing; outline core 5-minute project pitch structure. |
-| **5** | Oct 10 | **2 — Design** | Deconstruct sensor trade-offs (built-in IMU noise floor vs. external contact piezo); design the 3D-printed strapping clamp and weather enclosure. | Standardize modular attachments; practice 2–3 minutes per presentation part. |
-| **6** | Oct 17 | **3 — Create** | Build "The Anatomic Tree Trunk" physical demonstration sandbox (hinged log model showing inner sub-bark S-shaped galleries). | Test priority robot scoring runs; explain mechanical levers aloud. |
-| **7** | Oct 24 | **3 — Create** | Wire Seeed Grove Piezo Sensor to CoreS3 Port B; calibrate baseline noise and program pulse burst threshold detection in UIFlow. | Refine robot runs; practice 4-minute presentation runs with live timing. |
-| **8** | Oct 31 | **3 — Create** | Integrate real-time oscilloscope display and red bio-threat alert pop-up on CoreS3; test scratch-frequency acoustic triggering. | First timed 5-minute run for both Robot Game and Innovation Project. |
+| **1** | Sep 12 | **1 — Identify** | Planned: macro urban canopy briefing; introduce tree cooling/flood defenses; assign Week 1 Secret Tree Detective homework sheet. Confirm what occurred. | Planned: set up field mat and practice basic single-degree motor rotations. Confirm actual work. |
+| **2** | Sep 19 | **1 — Identify** | Planned: review homework on local invaders; unpack CFIA "2-minute check" blindspots; sign team mission ownership charters. Confirm what occurred. | Planned: basic straight-line navigation and first mission touch. Confirm actual work. |
+| **3** | Sep 26 | **1 — Identify** | Confirm Weeks 1–2 work; synthesize student EAB research, compare current inspection methods, and finalize three LEAF tour questions. Assign sensor and controller owners. | Confirm robot baseline; draft navigation pseudocode; 1–2 min speaking drill. |
+| **4** | Oct 3 *(Tour Oct 4)* | **2 — Design** | Prepare a system sketch and test plan; **attend the LEAF Tree Tour at Meander Park if confirmed**. Record observations and expert answers before finalizing the acoustic concept. | Choose priority robot missions; outline the 5-minute project pitch. |
+| **5** | Oct 10 | **2 — Design** | Compare IMU and contact piezo options; bench-test one available sensor on wood and save readings. Use the result to guide the 3D-printed clamp and weather enclosure design. | Standardize modular attachments; practice 2–3 minutes per presentation part. |
+| **6** | Oct 17 | **3 — Create** | Demonstrate the sensor-to-signal-to-alert chain and save wiring, code, and a short recording. Start "The Anatomic Tree Trunk" hinged demonstration model in parallel. | Test priority robot scoring runs; explain mechanical levers and the sensor demo aloud. |
+| **7** | Oct 24 | **3 — Create** | Integrate the chosen contact sensor with the wood display; calibrate baseline noise and implement a simple pulse threshold. Document mounting and repeat trials. | Refine robot runs; practice 4-minute presentation runs with live timing. |
+| **8** | Oct 31 | **3 — Create** | Add the waveform display and alert; test scratch and background inputs, recording both misses and false alerts. Explain that scratch triggering is a simulated signal. | First timed 5-minute run for both Robot Game and Innovation Project. |
 | **9** | Nov 7 | **4 — Iterate** | Environmental noise filtering: program dynamic baseline calibration and duration window filters to eliminate wind and traffic interference. | Measure run-to-run consistency; log failure modes in the Hall of Failures. |
 | **10** | Nov 14 | **4 — Iterate** | Test outdoor weatherproofing (PETG enclosure with stemflow rain-deflector and tree-friendly straps); finalize power consumption budget. | Full 5-minute rehearsals followed by adversarial mock judge questions. |
-| **11** | Nov 21 | **5 — Communicate** | Send technical follow-up report to LEAF / municipal forestry experts; present the working prototype to school peers and community volunteers. | Deliver complete timed presentation to an outside guest audience. |
-| **12** | Nov 28 | **5 — Communicate** | Document how expert feedback refined the threshold logic; finalize 3-fold display showboard and Engineering White Paper. | Full mock judging session covering Project, Robot Design, and Core Values. |
+| **11** | Nov 21 | **5 — Communicate** | Share the prototype and measured results with LEAF / municipal forestry experts or another outside audience; record their actual feedback. | Deliver complete timed presentation to an outside guest audience. |
+| **12** | Nov 28 | **5 — Communicate** | Document which expert feedback changed the design and why; finalize the 3-fold display showboard and Engineering White Paper. | Full mock judging session covering Project, Robot Design, and Core Values. |
 | **13** | Dec 5 | **Five Milestones Complete** | Address minor feedback items from mock sessions; verify backup hardware and batteries. | Two timed dress rehearsals with all speakers, props, and live demos. |
 | **14** | Dec 12 | **Five Milestones Complete** | Inspect transport packing, uniform badges, portfolio binders, and presentation props. | One calm, finalized run-through; lock down all systems for competition. |
 
