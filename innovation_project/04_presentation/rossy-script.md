@@ -19,3 +19,17 @@ Since they are hidden under the bark and cannot be seen from the outside, we hav
 **Hand-off**
 
 Now Jason will talk about our design.
+
+---
+
+# Rossy · Robot Game
+
+**Missions 3, 4 and 5**
+
+The missions I have completed are Mission 3, Flip the Rock, Mission 4, Lucky Leaves, and Mission 5, Reaching Roots.
+
+Starting from red, I drive to Flip the Rock first, since it's the shortest path. Then I drive to complete Lucky Leaves and Reaching Roots, which are in the same area, and finally return home.
+
+My attachment has three parts. First, a passive attachment, something extremely low, to nudge the research flag. On the left side, I have a claw that picks up two leaves and drops them. On the right side, we have an arm to extend the root.
+
+I am able to do three missions without wasting too much time.

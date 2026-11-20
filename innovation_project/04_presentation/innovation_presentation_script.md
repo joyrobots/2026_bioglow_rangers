@@ -6,6 +6,8 @@ Each kid answered the questions for their part (Week 7 presentation homework) an
 
 This file is the coaches' working record (what the kid wrote, what we changed, what to ask). Each kid also has a clean script to read from: [Rossy](rossy-script.md), [Jason](jason-script.md), [Bowen](bowen-script.md), [Jonathan](jonathan-script.md), [Jasper](jasper-script.md). The whole script in speaking order is in [full-script.md](full-script.md). When a polished paragraph changes here, update the kid's script file and the full script too.
 
+Each kid's script file also has their Robot Game part under the Innovation Project part. The robot design talk in speaking order is in [robot-game-script.md](robot-game-script.md).
+
 ## Status
 
 | # | Speaker | Part | Transcribed | Polished | Kid approved |
@@ -13,7 +15,7 @@ This file is the coaches' working record (what the kid wrote, what we changed, w
 | 1 | Rossy | Identify | paragraph only | draft 4 | ☐ |
 | 2 | Jason | Design | paragraph only | draft 7 | ☐ |
 | 3 | Bowen | Create | ☑ (bullets only, no paragraph) | coach draft 2 | ☐ |
-| 4 | Jonathan | Iterate | ☑ | draft 5 | ☐ |
+| 4 | Jonathan | Iterate | ☑ | draft 6 | ☐ |
 | 5 | Jasper | Communicate | paragraph only | draft 3 | ☐ |
 
 ## How we work on each paragraph
@@ -86,13 +88,13 @@ Homework questions:
 **What changed:**
 
 - Draft 4 (coach): new hook, "mature ash trees have been almost completely wiped out across the Greater Toronto Area". Natasha Jovanovic at LEAF told us this. It replaces the Richmond Hill hook from draft 2, and it is close to Rossy's own hook ("there used to be thousands of ash trees and now there are only a handful").
+- Draft 3 (coach): the 45,000 trees are back, as "The Toronto and Region Conservation Authority, TRCA, has already cut down over 45,000 ash trees." Andrew Chaisson at TRCA told us this number (see Sources). "Already" is ours. This also says what TRCA stands for before Jasper talks about them.
+- Draft 3: to make room, "The larvae are very tiny, and they eat the tree from under its bark. They chew S-shaped tunnels..." became one sentence, "Its tiny larvae chew S-shaped tunnels under the bark...".
 - Draft 2 (coach request: make it more factual). Every fact below was checked against a government page.
   - New hook: "the emerald ash borer is expected to kill all of the ash trees in Richmond Hill". Source: City of Richmond Hill EAB page. It replaces "there used to be thousands of ash trees and now there are only a handful", which we could not check.
   - "We have cut down over 45,000 ash trees" was taken out in draft 2 because we could not find the source.
   - Added "first found in Ontario in 2002" and "S-shaped tunnels that cut off the tree's food and water". Source: Ontario government EAB page.
   - "Invasive species" became "invasive beetle", so the judges know what kind of animal it is.
-- Draft 3 (coach): the 45,000 trees are back, as "The Toronto and Region Conservation Authority, TRCA, has already cut down over 45,000 ash trees." The coach says TRCA cut them down. We could not find this number online, so keep where it came from (a TRCA email?) in case judges ask. "Already" is ours. This also says what TRCA stands for before Jasper talks about them.
-- Draft 3: to make room, "The larvae are very tiny, and they eat the tree from under its bark. They chew S-shaped tunnels..." became one sentence, "Its tiny larvae chew S-shaped tunnels under the bark...".
 - Kept from his paragraph: invasive, from Asia, kills unprotected ash trees, very tiny, larvae eat the tree from under its bark, cannot be seen from the outside, ArborListen, and his hand-off.
 - Added "or EAB" after "emerald ash borer". Ours, so the judges know what the later speakers mean when they say "EAB".
 - "To early detect these larvae" became "to detect these larvae early".
@@ -167,12 +169,12 @@ Homework questions:
   - "Our device will face rainy weather" became "And because it stays outside on a tree, it will face rainy weather", so the waterproof sentence joins on to the one before. "Stays outside on a tree" is ours.
 - Draft 3 (coach): took out "The white ash tree influenced our design." It did not say how, so it was not useful.
 - Draft 2 (coach): added "We chose a piezoelectric sensor, which can feel tiny vibrations in the wood", and "the vibration sensor" in the last sentence became "the piezoelectric sensor". Our sensor is a piezo sensor (Bowen's part calls it the "piezo vibration sensor"). "Feel tiny vibrations in the wood" is ours.
-
-- Kept his hook, his order, and nearly all his words.
-- The hook now ends with a question mark, because it is a "What if" question.
-- **Meaning changed, needs checking.** "It will face the raining weather because it is water proof" became "Our device will face rainy weather, so it has to be waterproof." Jonathan's part says the waterproof cover is still a plan, so Jason should not say it is waterproof already.
-- "By using the M5stack and the vibrations is very good at detecting EAB" became "By using the M5Stack and the vibration sensor together, we can be very good at detecting the EAB."
-- "Boken" became "Bowen". Fixed spelling and grammar.
+- Draft 1:
+  - Kept his hook, his order, and nearly all his words.
+  - The hook now ends with a question mark, because it is a "What if" question.
+  - "It will face the raining weather because it is water proof" became "Our device will face rainy weather, so it has to be waterproof." Jonathan's part says the waterproof cover is still a plan, so Jason should not say it is waterproof already. (Taken out in draft 5.)
+  - "By using the M5stack and the vibrations is very good at detecting EAB" became "By using the M5Stack and the vibration sensor together, we can be very good at detecting the EAB."
+  - "Boken" became "Bowen". Fixed spelling and grammar.
 
 **Ask the kid:**
 
@@ -181,10 +183,9 @@ Homework questions:
 - Can he say why a camera and a microphone would not work? Judges may ask. (The larvae are hidden under the bark, and their chewing is too quiet to hear.)
 - Where is the sketch? He should hold it up when he says "From our sketches".
 - Does the sensor really touch the bark, or is there a tip or needle that goes in? Fix the sentence to match our device.
-- Can he say "piezoelectric" out loud (pee-AY-zo-electric)? If it is hard, "piezo sensor" is fine and matches Bowen.
-- The recipe wants one "Imagine..." detail and something to show. The decision matrix sheet? A sketch?
+- Can he say "piezoelectric" out loud (pee-AY-zo-electric)? If it is hard, "piezo sensor" is fine.
 
-**Show:** the sketch  ·  **Word count:** about 117  ·  **Timed:** not yet
+**Show:** the sketch  ·  **Word count:** about 119  ·  **Timed:** not yet
 
 ---
 
@@ -219,7 +220,7 @@ Homework questions:
 
 **Written by the coach from Bowen's homework bullets, at the coach's request.** Bowen needs to read it, change it into his own words, and say yes or no.
 
-> How can a tiny computer feel a bug chewing inside a tree? ArborListen has two parts: a vibration sensor and an M5Stack. We programmed our sensor to detect the frequency of the vibrations that EAB larvae make. The M5Stack reads the signal, and its screen shows the tree's stats and the vibrations. Let me demo it. First, I press the "Ready" button. Now watch the screen when I scratch the wood. The screen shows the vibration! A scratch is not a real larva, but it shows that our sensor can feel tiny vibrations in wood.
+> How can a tiny computer feel a bug chewing inside a tree? ArborListen has two parts: a vibration sensor and an M5Stack. We programmed our sensor to detect the frequency of the vibrations that EAB larvae make. The M5Stack reads the signal, and its screen shows the tree's stats and the vibrations. Let me demo it. First, I press the "Ready" button. Now watch the screen when I scratch the wood. *(Scratch the wood. Point to the screen.)* The screen shows the vibration! A scratch is not a real larva, but it shows that our sensor can feel tiny vibrations in wood.
 >
 > Next, Jonathan will tell you how we tested it and made it better.
 
@@ -227,7 +228,7 @@ Homework questions:
 
 - Bowen's, from his homework: "they communicate", "they compute together", "it shows the tree's stats", "it shows vibrations", and the idea to demo it.
 - From the "Think back" hints on his homework sheet: the piezo turns a vibration into something, the "Ready" button, scratching the wood, and that a scratch is not a real larva.
-- Ours: the hook, "two parts", "through a cable", "turns it into a signal", the order of the demo, and the hand-off.
+- Ours: the hook, "two parts", the order of the demo, and the hand-off.
 - Coach draft 2: added "We programmed our sensor to detect the frequency of the vibrations that EAB larvae make." From the coach.
 - Coach: took out the word "piezo". He says "vibration sensor" and "the sensor". Jason's part still names the piezoelectric sensor.
 - Coach: took out "The sensor feels a vibration and turns it into a signal." Jason now says this in his part.
@@ -237,7 +238,7 @@ Homework questions:
 
 **Ask the kid:**
 
-- **Check against Jonathan.** Bowen says the sensor is programmed for the larvae's frequency, and Jonathan (draft 2) now says we searched for the hertz. Is that true today? If not, both parts must change.
+- **Check against Jonathan.** Bowen says the sensor is programmed for the larvae's frequency, and Jonathan says we searched for the hertz. Is that true today? If not, both parts must change.
 - What frequency is it? Judges may ask for the number.
 - Does this sound like him? Which words would he change?
 - What does the screen really show before and after the "Ready" button is pressed? The draft only says he presses it. Fix the demo lines to match the real screen.
@@ -278,14 +279,22 @@ Homework questions:
 >
 > Next Jasper will talk about how we connected with experts
 
-### Polished paragraph (draft 5)
+### Polished paragraph (draft 6)
 
-> *(Show the video.)* I ride my bike at Bruce's Mill Conservation Area. An ash tree there was infested with EAB and had to be cut down. Our first version was a flat vibration sensor that sat on the bark. One problem we found is that it might not detect the larvae, because they are too small and the bark might be too thick. If it misses them, the ash tree might already be dead before we detect any sound. So for our second version, we added a needle to go deeper into the tree's bark, and we upgraded the sensor's sensitivity. We also searched for the hertz of the EAB larvae, so we can set the sensor to that exact hertz. For our next iteration, we plan to put a waterproof cover on the sensor.
+> I ride my bike at Bruce's Mill Conservation Area. Here is a quick video of an ash tree there that had to be cut down because of the EAB. *(Show the video.)* We don't want that to happen to more trees, so we kept testing ArborListen and making it better. Our first version was a flat vibration sensor that sat on the bark. But the larvae are very small and the bark is thick, so the sensor might miss them. So for our second version, we added a needle that goes deeper into the bark, and we upgraded the sensor's sensitivity. Then we searched for the hertz of the EAB larvae, so we can set the sensor to that exact hertz. For our next iteration, we plan to add a waterproof cover to keep the sensor dry in the rain.
 >
 > Next, Jasper will talk about how we connected with experts.
 
 **What changed:**
 
+- Coach: he now introduces the video before it plays. "An ash tree there was infested with EAB and had to be cut down" became "Here is a quick video of an ash tree there that had to be cut down because of the EAB", and the video cue moved to after the sentence.
+- Draft 6 (coach request: it sounded odd, link things together). No new facts except the reasons marked "ours".
+  - New bridge after the bike story: "We don't want that to happen to more trees, so we kept testing ArborListen and making it better." Ours. It joins the story to the testing.
+  - "One problem we found is that it might not detect the larvae, because they are too small and the bark might be too thick" became "But the larvae are very small and the bark is thick, so the sensor might miss them."
+  - Linking words added at the start of sentences: "But", "So", "Then".
+  - Took out "If it misses them, the ash tree might already be dead before we detect any sound." The bike story and the new bridge already make this point, and the part was too long. It was from his homework answer 1.
+  - "A needle to go deeper into the tree's bark" became "a needle that goes deeper into the bark".
+  - "We plan to put a waterproof cover on the sensor" became "we plan to add a waterproof cover to keep the sensor dry in the rain". The reason is ours, from Jason's homework idea about rainy weather.
 - Coach: the hook is now personal. "At Bruce's Mill Conservation Area, an ash tree was infested..." became "I ride my bike at Bruce's Mill Conservation Area. An ash tree there was infested with EAB and had to be cut down."
 - Draft 5 (coach): the hook is now the Bruce's Mill video and its one sentence. His question ("Have you ever seen a dead ash tree and wondered what did this, and how to stop it?") was taken out. Rossy and Jason have already answered it by the time he speaks, it was close to Jason's hook, and all five parts were opening with a question.
 - Draft 4 (coach): the story is now two versions. First version: a flat vibration sensor that sat on the bark. Second version: we added the needle. "Our first version was a flat vibration sensor that sat on the bark" is from the coach. "Decided to add a needle" became "we added a needle", because the needle is built. The needle now comes before the sensitivity upgrade.
@@ -296,13 +305,14 @@ Homework questions:
   - "One problem is" became "One problem we found is".
   - **Needs checking.** "Next, we can test or search for the hertz of the EAB larvae, then change the sensitivity to that exact hertz" became "We also searched for the hertz of the EAB larvae, so we can set the sensor to that exact hertz." Bowen's part now says the sensor is programmed for the larvae's frequency, so the hertz cannot be a future step here. If we have not done it yet, change both parts back.
   - "We also plan to put a waterproof cover" became "Our next step is to put a waterproof cover", so it is clearly the future plan.
-- Kept his hook, his order, and nearly all his words: the sensor, the problem (larvae too small, bark too thick), the sensitivity upgrade, the needle, and the hertz idea.
-- "How do you stop it?" became "how to stop it?" so the hook is one question.
-- "We have to detect the EAB so we made a sensor" became "To stop the EAB, we have to detect it first, so we made a sensor", to link the hook to the sensor. The link is ours.
-- Added "If it misses them, the ash tree might already be dead before we detect any sound." This is from his homework answer 1; it was not in his paragraph.
-- Added "We also plan to put a waterproof cover on the sensor." This is from his homework answer 4 (the future plan); it was not in his paragraph.
-- "as it is too small" became "because they are too small".
-- Fixed spelling and grammar.
+- Draft 1:
+  - Kept his hook, his order, and nearly all his words: the sensor, the problem (larvae too small, bark too thick), the sensitivity upgrade, the needle, and the hertz idea.
+  - "How do you stop it?" became "how to stop it?" so the hook is one question.
+  - "We have to detect the EAB so we made a sensor" became "To stop the EAB, we have to detect it first, so we made a sensor", to link the hook to the sensor. The link is ours.
+  - Added "If it misses them, the ash tree might already be dead before we detect any sound." This is from his homework answer 1; it was not in his paragraph.
+  - Added "We also plan to put a waterproof cover on the sensor." This is from his homework answer 4 (the future plan); it was not in his paragraph.
+  - "as it is too small" became "because they are too small".
+  - Fixed spelling and grammar.
 
 **Ask the kid:**
 
@@ -310,18 +320,17 @@ Homework questions:
 - What is the hertz of the EAB larvae that we found, and where did we find it? Judges may ask for the number. (Hertz is how fast something vibrates.)
 - Homework question 3 asked for a fair test. What would we count? (For example: scratch the wood ten times and count how many times the screen reacts, before and after the change.) Nothing about counting is in the script yet.
 - Is he happy to lose his question? It was his own line.
-- Does the video start before he speaks, or as he says the sentence?
 - Did he see the tree himself, before or after it was cut down? If yes, "I saw an ash tree there" is even stronger. How long is the video? Keep it to about 5 seconds, or let it play silently while he talks.
 - Who starts the video, and on what screen?
 
-**Show:** the Bruce's Mill video, then the flat sensor and the needle  ·  **Word count:** about 142 (plus the video) (plus the video)  ·  **Timed:** not yet
+**Show:** the Bruce's Mill video, then the flat sensor and the needle  ·  **Word count:** about 147 (plus the video)  ·  **Timed:** not yet
 
 ---
 
 ## 5. Jasper · Communicate
 
 **Their part:** Explain how we shared our project and learned from other people.
-**Hands off to:** to be decided (see open questions)
+**Hands off to:** nobody. He speaks last and ends with the thank-you.
 
 Homework questions:
 
@@ -356,7 +365,7 @@ Homework questions:
 - Kept his hook, his order, and nearly all his words: TRCA and TreeAzin, the questions, the crown of the tree, curing ash trees, the vibration sensor, and his ending.
 - "The tree stethoscope" became "ArborListen". Coach decision: the project is called ArborListen, and Rossy already uses that name.
 - Hook: "Who knows best?" became "Who knows best about ash trees?" The last three words are ours.
-- **Fact changed, needs checking.** "Only 30% of the medicine works" became "the medicine only works if the tree has lost less than 30% of its leaves". This follows the coaches' roadmap note (TreeAzin is only viable if canopy loss is under 30%). Check it against the TreeAzin chart before he says it.
+- **Fact changed.** "Only 30% of the medicine works" became "the medicine only works if the tree has lost less than 30% of its leaves". Two experts confirmed this (see "Ask the kid").
 - Added "That is why finding the EAB early matters." Ours, to join the expert answer to our solution.
 - Took out "(check chart from tree azin)". It is a note to himself; the chart is listed under Show.
 - Split the long sentences and fixed spelling and grammar.
@@ -371,7 +380,7 @@ Homework questions:
 - "The medicine" is TreeAzin. Does he want to say its name?
 - Will he hold up the TreeAzin chart?
 
-**Show:** the TreeAzin chart (to confirm)  ·  **Word count:** about 131  ·  **Timed:** not yet
+**Show:** the TreeAzin chart (to confirm)  ·  **Word count:** about 132  ·  **Timed:** not yet
 
 ---
 
@@ -382,15 +391,15 @@ Word counts are from the current drafts. Seconds are an estimate at 130 words a 
 | # | Speaker | Words | Seconds |
 | --- | --- | --- | --- |
 | 1 | Rossy | 106 | about 49 |
-| 2 | Jason | 117 | about 54 |
+| 2 | Jason | 119 | about 55 |
 | 3 | Bowen | 108 | about 50 plus the demo |
-| 4 | Jonathan | 142 | about 66 plus the video |
-| 5 | Jasper | 131 | about 60 |
-| | **Total** | 604 | about 279 (4.6 minutes) |
+| 4 | Jonathan | 147 | about 68 plus the video |
+| 5 | Jasper | 132 | about 61 |
+| | **Total** | 612 | about 282 (4.7 minutes) |
 
 ## Open questions for the assembled version
 
-- **The ending.** Jasper speaks last. Does Jasper close with a full circle back to Rossy's hook, or hand off to the Robot Design explanation?
+- **The ending.** Jasper speaks last and ends with a thank-you. He also opens the robot design talk ([robot-game-script.md](robot-game-script.md)). Does he need a linking sentence between the two?
 - **One team hook.** Each paragraph has its own hook. Do we keep all five, or use Rossy's as the team hook and shorten the others to a linking sentence?
 - **Demo.** Bowen's part has the live demo (scratching the wood). Who holds the wood and who holds the M5Stack?
 - **Props.** Who holds the piezo sensor, the M5Stack, and the test wood, and when do they get passed?

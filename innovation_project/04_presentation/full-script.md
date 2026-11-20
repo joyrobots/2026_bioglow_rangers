@@ -32,7 +32,7 @@ Next, Jonathan will tell you how we tested it and made it better.
 
 ## 4. Jonathan · Iterate
 
-*(Show the video.)* I ride my bike at Bruce's Mill Conservation Area. An ash tree there was infested with EAB and had to be cut down. Our first version was a flat vibration sensor that sat on the bark. One problem we found is that it might not detect the larvae, because they are too small and the bark might be too thick. If it misses them, the ash tree might already be dead before we detect any sound. So for our second version, we added a needle to go deeper into the tree's bark, and we upgraded the sensor's sensitivity. We also searched for the hertz of the EAB larvae, so we can set the sensor to that exact hertz. For our next iteration, we plan to put a waterproof cover on the sensor.
+I ride my bike at Bruce's Mill Conservation Area. Here is a quick video of an ash tree there that had to be cut down because of the EAB. *(Show the video.)* We don't want that to happen to more trees, so we kept testing ArborListen and making it better. Our first version was a flat vibration sensor that sat on the bark. But the larvae are very small and the bark is thick, so the sensor might miss them. So for our second version, we added a needle that goes deeper into the bark, and we upgraded the sensor's sensitivity. Then we searched for the hertz of the EAB larvae, so we can set the sensor to that exact hertz. For our next iteration, we plan to add a waterproof cover to keep the sensor dry in the rain.
 
 Next, Jasper will talk about how we connected with experts.
 

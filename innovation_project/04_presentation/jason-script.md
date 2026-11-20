@@ -21,3 +21,17 @@ From our sketches, we have a sensor that touches the bark, and an M5Stack that r
 **Hand-off**
 
 Next, Bowen will tell you how our team created the solution.
+
+---
+
+# Jason · Robot Game
+
+**Missions 7 and 13**
+
+I have completed Mission 7, Humongous Fungus, for 20 points, and Mission 13, Keystone Species, for 30 points.
+
+Starting on the blue side, we drive to Keystone Species, then Humongous Fungus, and back to blue.
+
+For my attachment, I have an active dumper to dump Squirmy, our mascot, into the restoration platform for Keystone Species. Then my flipper flips the mycelium.
+
+At first I used a grabber to pull the mycelium, but I found that a flipper could flip it easily.
