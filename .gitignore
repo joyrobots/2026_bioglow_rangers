@@ -71,3 +71,6 @@ yarn-error.log*
 #          -preset medium -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart clip.mp4
 *.MOV
 *.mov
+
+# Poster cut-outs: print-size photo copies (originals live in portfolio_assets, web photos are re-downloadable)
+innovation_project/04_presentation/poster_photos/
