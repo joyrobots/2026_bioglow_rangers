@@ -6,19 +6,21 @@ Who knows best about ash trees?
 
 **Body**
 
-We asked TRCA and contacted a company called TreeAzin, with questions about the EAB and the white ash tree.
+We asked TRCA, York Region, and a company called TreeAzin, with questions about the EAB and the white ash tree.
 
-We asked the experts about curing ash trees.
+Julia Reale, a forester at York Region, told us that once a tree has lost 30% of its leaves, the medicine no longer works.
 
-We discovered that the medicine only works if the tree has lost less than 30% of its leaves.
+The TreeAzin team told us why: the tree can't move the medicine up to its leaves anymore.
 
-When most of the leaves in the crown of a tree are gone, it is too late to save the tree.
+By then, it is too late to save the tree.
 
 That is why finding the EAB early matters.
 
 We showed them that we had made ArborListen, and told them we could use the vibration sensor to detect the EAB.
 
-They told us that our idea is a good one.
+Andrew Chaisson, an arborist at TRCA, told us that early detection tools, like acoustic sensors, are vital.
+
+And York Region told us that sensors that find the larvae before the leaves are damaged are highly valued.
 
 **Ending**
 
@@ -28,15 +30,13 @@ Now, when you see a white ash tree, you will think of our speech and our solutio
 
 # Jasper · Robot Game
 
-**Our robot and Mission 11**
+**Robot base design**
 
 For our robot, we are using the Rig. We picked a low base so we can reach the smaller missions more easily. A low base also keeps the centre of gravity low, and the wide base makes the robot hard to tip over.
 
-*(Strategy, to write with the team.)* We chose these missions because ____. Some runs start on red and some on blue because ____. Together our runs can score ____ points.
+**Mission 11**
 
 I am doing Mission 11, Window to the Past, for 20 points.
-
-Starting on the blue side, we complete Window to the Past.
 
 For the attachment, we have a flat, egg-shaped passive arm to pull the root cover down. We used the egg shape because it can easily go over the ledge going forward, and going back it can pull the root cover down.
 

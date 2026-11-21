@@ -32,8 +32,6 @@ Next, Jasper will talk about how we connected with experts.
 
 My missions are Mission 8, Tangled, for 30 points, and Mission 9, Research Platform, for 30 points.
 
-Starting from the red side, we go to the tree to complete both missions and come back.
-
 For these missions we have two attachments: one to lift the research platform and catch the seed, and the other to untangle the Tangled mission.
 
 One cool part is that since the platform is heavy, we used a worm gear to lift it. A worm gear makes the motor much stronger, and it locks, so the platform can't fall back down.

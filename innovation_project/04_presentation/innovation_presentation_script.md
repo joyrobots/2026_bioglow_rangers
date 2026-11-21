@@ -16,7 +16,7 @@ Each kid's script file also has their Robot Game part under the Innovation Proje
 | 2 | Jason | Design | paragraph only | draft 7 | ☐ |
 | 3 | Bowen | Create | ☑ (bullets only, no paragraph) | coach draft 2 | ☐ |
 | 4 | Jonathan | Iterate | ☑ | draft 6 | ☐ |
-| 5 | Jasper | Communicate | paragraph only | draft 3 | ☐ |
+| 5 | Jasper | Communicate | paragraph only | draft 4 | ☐ |
 
 ## How we work on each paragraph
 
@@ -352,14 +352,21 @@ Homework questions:
 >
 > Now when you see a white ash stree, you will think of our speech and solution. Thank you for listening
 
-### Polished paragraph (draft 3)
+### Polished paragraph (draft 4)
 
-> Who knows best about ash trees? We asked TRCA and contacted a company called TreeAzin, with questions about the EAB and the white ash tree. We asked the experts about curing ash trees. We discovered that the medicine only works if the tree has lost less than 30% of its leaves. When most of the leaves in the crown of a tree are gone, it is too late to save the tree. That is why finding the EAB early matters. We showed them that we had made ArborListen, and told them we could use the vibration sensor to detect the EAB. They told us that our idea is a good one.
+> Who knows best about ash trees? We asked TRCA, York Region, and a company called TreeAzin, with questions about the EAB and the white ash tree. Julia Reale, a forester at York Region, told us that once a tree has lost 30% of its leaves, the medicine no longer works. The TreeAzin team told us why: the tree can't move the medicine up to its leaves anymore. By then, it is too late to save the tree. That is why finding the EAB early matters. We showed them that we had made ArborListen, and told them we could use the vibration sensor to detect the EAB. Andrew Chaisson, an arborist at TRCA, told us that early detection tools, like acoustic sensors, are vital. And York Region told us that sensors that find the larvae before the leaves are damaged are highly valued.
 >
 > Now, when you see a white ash tree, you will think of our speech and our solution. Thank you for listening!
 
 **What changed:**
 
+- Draft 4 (coach request: use more of what the experts told us). The facts are from [expert_questions_and_answers.md](../02_field_outreach/expert_replies/expert_questions_and_answers.md). That file holds summaries, not word-for-word quotes, so he says "told us that" and there are no quote marks. Check the wording against the original emails.
+  - York Region is now in the list of who we asked.
+  - "We discovered that the medicine only works if the tree has lost less than 30% of its leaves" became "Julia Reale, a forester at York Region, told us that once a tree has lost 30% of its leaves, the medicine no longer works."
+  - Added the reason from the TreeAzin team (Adriana Kairiss): "the tree can't move the medicine up to its leaves anymore."
+  - "When most of the leaves in the crown of a tree are gone, it is too late to save the tree" became "By then, it is too late to save the tree." 30% is not "most", so the two did not agree. "The crown" was his own word.
+  - Took out "We asked the experts about curing ash trees." The first sentence already says we asked.
+  - "They told us that our idea is a good one" became what two experts said about tools like ours: Andrew Chaisson (TRCA) said early detection tools like acoustic sensors are vital, and Julia Reale (York Region) said sensors that find larvae before crown damage are highly valued. **Needs checking:** these are about sensors like ours in general. If an expert said something about ArborListen itself, use that.
 - Draft 3 (coach): added "They told us that our idea is a good one." The coach says the experts told us this. It gives the experts' feedback, which the part was missing.
 - Draft 2 (flow): the two expert answers are now together and in order. First the 30% rule, then "when most of the leaves in the crown are gone, it is too late", then why early matters. "We found out that" and "also" were taken out. No new facts.
 - Kept his hook, his order, and nearly all his words: TRCA and TreeAzin, the questions, the crown of the tree, curing ash trees, the vibration sensor, and his ending.
@@ -380,7 +387,7 @@ Homework questions:
 - "The medicine" is TreeAzin. Does he want to say its name?
 - Will he hold up the TreeAzin chart?
 
-**Show:** the TreeAzin chart (to confirm)  ·  **Word count:** about 132  ·  **Timed:** not yet
+**Show:** the TreeAzin chart (to confirm)  ·  **Word count:** about 163  ·  **Timed:** not yet
 
 ---
 
@@ -394,8 +401,8 @@ Word counts are from the current drafts. Seconds are an estimate at 130 words a 
 | 2 | Jason | 119 | about 55 |
 | 3 | Bowen | 108 | about 50 plus the demo |
 | 4 | Jonathan | 147 | about 68 plus the video |
-| 5 | Jasper | 132 | about 61 |
-| | **Total** | 612 | about 282 (4.7 minutes) |
+| 5 | Jasper | 163 | about 75 |
+| | **Total** | 643 | about 297 (4.9 minutes) |
 
 ## Open questions for the assembled version
 
